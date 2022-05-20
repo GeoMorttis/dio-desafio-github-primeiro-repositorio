@@ -7,8 +7,8 @@
 - **Aula Inaugural - TQI Fullstack Developer (Mentoria - Live)**: ocorrida em 19/05/2022, com a participação dos mentores Renan Oliveira, Venilton Falvo Jr e Camila Cavalcante, e a participação do interprete de libras Hélio. Aqui são detalhados todas as tecnologias que seriam abordadas no Bootcamp assim como são apresentadas dicas para todos os quase mil participantes da live. A apresentação tem aproximadamente 01:30hs, e ocorreu de 19:00hs às 20:30hs. Link da live abaixo:
   
   [TQI Fullstack Developer | Aula Inaugural - YouTube](https://www.youtube.com/watch?v=OhHMkrzKU6U)
-  
-  **Seja Protagonista Neste Bootcamp (Curso)**: nesta parte do Módulo I o mentor Venilton apresenta com maiores detalhes a estrutura de ensino da Dio, explica a utilização da plataforma de ensino, o formato dos Desafios de Código e quais são os objetivos e a maneira de desenvolver os Desafios de Projeto. Foi claro e direto.
+
+- **Seja Protagonista Neste Bootcamp (Curso)**: nesta parte do Módulo I o mentor Venilton apresenta com maiores detalhes a estrutura de ensino da Dio, explica a utilização da plataforma de ensino, o formato dos Desafios de Código e quais são os objetivos e a maneira de desenvolver os Desafios de Projeto. Foi claro e direto.
 
 - **Introdução à Programação e Pensamento Computacional (Curso)**: esta parte foi apresentada pela Instrutora Juliana Mascarenhas. Ela apresenta conceitos do pensamento computacional, lógica de programação, fundamentos de algoritmos, linguagens de programação utilizadas em front-end e back-end, e por fim apresenta o site Portugol Webstudio utilizado para estudar programação. Ótimo site para aprendizado. Link abaixo:
 
@@ -23,5 +23,3 @@
 - **Criando seu Primeiro Repositório no GitHub Para Compartilhar seu Progresso (Desafio de Projeto)**: O desafio é apresentado pelo instrutor/mentor Venilton, e se trata da apresentação dos progressos que este Bootcamp está trazendo para minha carreira profissional. Este é o primeiro de muitos desafios que esta nova carreira me trará, e quem sabe para você também!? O Link para acessar meu repositório com a progressão, que atualizarei semanalmente, é: 
   
   [GitHub - GeoMorttis: Desafio de Projeto sobre Git/GitHub](https://github.com/GeoMorttis/dio-desafio-github-primeiro-repositorio.git)
-  
-  
