@@ -8,3 +8,5 @@
 ### A jornada começa agora.
 
 ###### Módulo I - Conteúde de Abertura        - Início 15/05 | Finalização 20/05
+
+###### Módulo I - HTML/CSS3                             - Início 21/05 | Finalizado 26/05
