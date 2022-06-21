@@ -10,3 +10,7 @@
 ###### Módulo I - Conteúde de Abertura        - Início 15/05 | Finalização 20/05
 
 ###### Módulo II - HTML/CSS3                            - Início 21/05 | Finalizado 26/05
+
+###### Módulo III - Javascript                             - Início 31/05 | Finalizado 09/06
+
+###### Módulo IV - ReactJS                                  - Início 10/06 | Finalizado 20/06
