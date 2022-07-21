@@ -14,3 +14,11 @@
 ###### Módulo III - Javascript                             - Início 31/05 | Finalizado 09/06
 
 ###### Módulo IV - ReactJS                                  - Início 10/06 | Finalizado 20/06
+
+###### Módulo V - SQL                                          - Início 22/06 | Finalizado 22/06
+
+###### Módulo VI - Java                                        - Início 24/06 | Finalizado 21/07
+
+###### Módulo VII - Spring Framework            - Início 14/07 | Finalizado 21/07
+
+###### Módulo VII - QA                                         - Início 07/07 | Finalizado 12/07
